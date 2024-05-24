@@ -6,8 +6,8 @@ and through prior experience in software development, I've honed my skills to se
 
 -- 🚀 And as the tech world insists on inventing new things every other day (looking at you, AI), I'm right there, steadily and parallelly upgrading my knowledge.
 
-# Highest Education:
-- 🎓 Master's in Computer Science from The University of Texas at San Antonio.
+# 🎓Highest Education:
+-  Master's in Computer Science from The University of Texas at San Antonio.
 
 # 💻 Skills:
 
