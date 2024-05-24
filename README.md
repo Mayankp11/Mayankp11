@@ -1,7 +1,7 @@
 # Hello People 👋
 # I'm Mayank Patil & welcome to my GitHub Profile
 # 🧑‍💻About Me:
-- 🎓 Just your typical Computer Science graduate who decided to specialize in Software Development. Oh, and did I mention I'm a Full Stack Developer? That's right, I do the front-end, the back-end, and everything in between including database administration and cloud deployment.Because why limit yourself, right? 
+- 🎓 Just your typical Computer Science graduate who decided to specialize in Software Development. Oh, and did I mention I'm a Full Stack Developer? That's right, I do the front-end, the back-end, and everything in between including database administration and cloud deployment. Because why limit yourself, right? 
 and through prior experience in software development, I've honed my skills to seamlessly navigate every layer of the digital realm.
 
 -- 🚀 And as the tech world insists on inventing new things every other day (looking at you, AI), I'm right there, steadily and parallelly upgrading my knowledge.
@@ -28,12 +28,12 @@ and through prior experience in software development, I've honed my skills to se
 - AWS Certified Cloud Practitioner
 - Google Cloud Platform Fundamentals: Core Infrastructure
 - Java Fundamentals and Core Java: Mosh Code
-- SQL Mastery Trainig: Mosh Code
+- SQL Mastery Training: Mosh Code
 - Git and GitHub: Mosh Code
 - Python Programming: Mosh Code
 - Introduction to Generative AI: Google Cloud
 - Gemini for Application Developers: Google Cloud
-- Data Structures and Algorithms: LeeCode
+- Data Structures and Algorithms: LeetCode
 
 ## Thank you for visiting my profile. If you have any questions or would like to connect, please feel free to reach out to me. I'm always open to new opportunities and collaborations.👍
 
