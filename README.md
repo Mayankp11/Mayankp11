@@ -1,4 +1,4 @@
-# Hello People 👋
+# Hello Everybody 👋
 # I'm Mayank Patil & welcome to my GitHub Profile
 # 🧑‍💻About Me:
 - 🎓 Just your typical Computer Science graduate who decided to specialize in Software Development. Oh, and did I mention I'm a Full Stack Developer? That's right, I do the front-end, the back-end, and everything in between including database administration and cloud deployment. Because why limit yourself, right? 
