@@ -18,12 +18,6 @@ and through prior experience in software development, I've honed my skills to se
 - Integrated Development Environment (IDE) and Development Tools: Git, Docker, Postman, HTML, CSS, Eclipse IDE for Enterprise Java and Web Developers, IntelliJ, Visual Studio Code, Jupyter Notebook, PyCharm
 - Python Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, NLTK, Flask, Django, Plotly, PySpark, PyTorch, Scrapy, Selenium
 
-# 👔 Work Experience:
-- Graduate Teaching Assistant: The University of Texas at San Antonio.
-- Student Assistant: John Peace Library, UTSA.
-- Software Developer: Mojoes Technologies.
-- Software Engineer Intern: TechBone Infomatics Pvt. Ltd.
-
 # 🏅 Certifications:
 - AWS Certified Cloud Practitioner
 - Google Cloud Platform Fundamentals: Core Infrastructure
